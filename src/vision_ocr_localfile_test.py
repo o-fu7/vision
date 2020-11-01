@@ -1,3 +1,5 @@
+# see https://cloud.google.com/vision/docs/ocr/?hl=JA
+
 from google.cloud import vision
 import io
 
